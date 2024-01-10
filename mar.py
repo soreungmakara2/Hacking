@@ -41,7 +41,7 @@ print (""" \033[1;32m
                   nP"     "*MMnx       
                    
           Auto exploit Marijuana
-       Telegram : https://t.me/garudasec4
+       Telegram : @Mkra123
 """)
 requests.urllib3.disable_warnings()
 headers = {'Connection': 'keep-alive',
